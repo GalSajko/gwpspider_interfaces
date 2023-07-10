@@ -43,6 +43,7 @@ set(srv_files
   "srv/GetSpiderPose.srv"
   "srv/MoveLegVelocityMode.srv"
   "srv/ToggleAdditionalControllerMode.srv"
+  "srv/SpiderGoal.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
