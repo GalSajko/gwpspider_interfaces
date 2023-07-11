@@ -28,6 +28,9 @@ GET_SPIDER_POSE_SERVICE = 'get_spider_pose_service'
 MOVE_LEG_VELOCITY_MODE_SERVICE = 'move_leg_velocity_mode_service'
 TOGGLE_ADDITIONAL_CONTROLLER_MODE_SERVICE = 'toggle_additional_controller_mode_service'
 
+#Server
+SEND_GOAL_SERVICE = 'spider_goal'
+
 # Dynamixel
 TOGGLE_MOTORS_TORQUE_SERVICE = 'toggle_motors_torque_service'
 SET_BUS_WATCHDOG_SERVICE = 'set_bus_watchdog_service'
