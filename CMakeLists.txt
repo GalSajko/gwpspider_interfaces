@@ -39,7 +39,7 @@ set(srv_files
   "srv/MoveSpider.srv"
   "srv/ToggleController.srv"
   "srv/DistributeForces.srv"
-  "srv/ApplyForceLeg.srv"
+  "srv/ApplyForcesOnLegs.srv"
   "srv/GetSpiderPose.srv"
   "srv/MoveLegVelocityMode.srv"
   "srv/ToggleAdditionalControllerMode.srv"
