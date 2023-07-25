@@ -20,6 +20,7 @@ SPIDER_POSE_TOPIC = 'spider_pose_topic'
 MOVE_GRIPPER_SERVICE = 'move_gripper_service'
 WATER_PUMP_SERVICE = 'water_pump_service'
 INIT_BNO_SERVICE = 'init_bno_service'
+BREAKS_SERVICE = 'breaks_service'
 
 # Controller
 MOVE_LEG_SERVICE = 'move_leg_service'
