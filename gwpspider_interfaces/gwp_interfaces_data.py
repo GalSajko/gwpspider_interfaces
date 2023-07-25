@@ -2,6 +2,7 @@
 # Arduino
 GRIPPER_STATES_TOPIC = 'grippers_states'
 BNO_DATA_TOPIC = 'bno_data_topic'
+BATTERY_VOLTAGE_TOPIC = 'battery_voltage_topic'
 
 # Controller
 LEGS_STATES_TOPIC = 'legs_states_topic'
