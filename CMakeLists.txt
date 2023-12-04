@@ -49,6 +49,7 @@ set(srv_files
   "srv/Messages.srv"
   "srv/GetOffsetsToChargingPosition.srv"
   "srv/SendStringCommand.srv"
+  "srv/GripperError.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
